@@ -33,14 +33,17 @@
 
 ## OUTPUT :
 ![image](https://github.com/Priyangarajapandiyan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144872535/895f016a-d813-4645-80c7-a668a7416155)
+![image](https://github.com/Priyangarajapandiyan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144872535/b19bfa4c-97aa-45f5-a023-e6a48dbaf22e)
 
 ## Support Removal Process
 ## UV Curing of 3D printed part
 ![image](https://github.com/Priyangarajapandiyan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144872535/637b16c1-de20-4591-a2d1-a5e65b5adab7)
+![image](https://github.com/Priyangarajapandiyan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144872535/ffdda818-c9a7-43eb-b4ad-0b24833254e5)
 
 
 ## Heat Treatment of 3D printed part
 ![image](https://github.com/Priyangarajapandiyan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144872535/fc4f6aca-c085-4656-95d5-b0aed33140e0)
+![image](https://github.com/Priyangarajapandiyan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144872535/20c452aa-7f61-4102-825a-571835b13139)
 
 
 ### Name: R.PRIYANGA
